@@ -10,7 +10,7 @@ This repository is dedicated to improving Python debugging skills through daily 
 |-------|----------------------|--------------------------|-----------------------------------------|------------------------------------|-------------|-----------|------------------------------------------|
 | Day 1 | ✅ Square Function   | ✅ Count Vowels          | ✅ Unique Elements, ✅ Longest Consecutive Subsequence | Functions, Strings, Lists, Sets   | 2/4         | 2/4      | Needed help with hard problems           |
 | Day 2 | ✅ HashMap Counter   | ✅ Balanced Parentheses   | ✅ Remove Duplicates (LL)                | Dict, Stack, Linked List           | 2/3         | 1/3      | Needed help with linked list pointers    |
-| Day 3 |                      |                          |                                         |                                    |             |           |                                          |
+| Day 3 | ✅ Find Max          | ✅ Queue (2 Stacks)       | ✅ Binary Search (First Occurrence)      | Arrays, Stacks, Queues, Search     | 3/3         | 0/3      | Solved all problems independently       |
 | ...   |                      |                          |                                         |                                    |             |           |                                          |
 
 - ✅ = Solved and understood
@@ -70,10 +70,32 @@ Given the head of a sorted linked list, remove all duplicates such that each ele
 
 ---
 
+### Day 3
+
+#### Easy: Array - Find Maximum Element
+**Problem Statement:**  
+Write a function that returns the maximum element in an array.  
+**Bug:** The function does not handle empty arrays or negative numbers correctly.  
+**Result:** Fixed by self.
+
+#### Medium: Queue - Implement with Two Stacks
+**Problem Statement:**  
+Implement a queue using two stacks with enqueue and dequeue operations.  
+**Bug:** The dequeue operation does not always return the correct element.  
+**Result:** Fixed by self.
+
+#### Hard: Binary Search - Find First Occurrence
+**Problem Statement:**  
+Given a sorted array and a target value, return the index of the first occurrence of the target. If not found, return -1.  
+**Bug:** The function does not always return the first occurrence.  
+**Result:** Fixed by self.
+
+---
+
 ## How to Use
 
 - Review the problems and their statements.
-- Check the corresponding solutions and explanations in `day1.py`, `day2.py`, etc.
+- Check the corresponding solutions and explanations in `day1.py`, `day2.py`, `day3.py`, etc.
 - Use the test cases to verify your own fixes and understanding.
 
 ---
