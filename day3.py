@@ -27,7 +27,7 @@ print(find_max([1, 2, 3, 4, 5]))      # Expected: 5
 print(find_max([-1, -2, -3, -4]))     # Expected: -1
 print(find_max([]))                   # Expected: None
 
-------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
 """
 Medium: Queue - Implement with Two Stacks
