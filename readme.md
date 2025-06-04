@@ -11,6 +11,7 @@ This repository is dedicated to improving Python debugging skills through daily 
 | Day 1 | ✅ Square Function   | ✅ Count Vowels          | ✅ Unique Elements, ✅ Longest Consecutive Subsequence | Functions, Strings, Lists, Sets   | 2/4         | 2/4      | Needed help with hard problems           |
 | Day 2 | ✅ HashMap Counter   | ✅ Balanced Parentheses   | ✅ Remove Duplicates (LL)                | Dict, Stack, Linked List           | 2/3         | 1/3      | Needed help with linked list pointers    |
 | Day 3 | ✅ Find Max          | ✅ Queue (2 Stacks)       | ✅ Binary Search (First Occurrence)      | Arrays, Stacks, Queues, Search     | 3/3         | 0/3      | Solved all problems independently       |
+| Day 4 | ✅ Remove Evens      | ✅ Linear Search          | ✅ Reverse Linked List                   | Arrays, Search, Linked List        | 3/3         | 0/3      | Solved all problems independently       |
 | ...   |                      |                          |                                         |                                    |             |           |                                          |
 
 - ✅ = Solved and understood
@@ -92,10 +93,32 @@ Given a sorted array and a target value, return the index of the first occurrenc
 
 ---
 
+### Day 4
+
+#### Easy: Array - Remove Even Numbers
+**Problem Statement:**  
+Write a function that removes all even numbers from an array and returns the new array.  
+**Bug:** The function does not remove all even numbers correctly.  
+**Result:** Fixed by self.
+
+#### Medium: Searching - Linear Search with Index
+**Problem Statement:**  
+Write a function that returns the index of the first occurrence of a target in an array, or -1 if not found.  
+**Bug:** The function does not always return the correct index.  
+**Result:** Fixed by self.
+
+#### Hard: Linked List - Reverse a Linked List
+**Problem Statement:**  
+Given the head of a singly linked list, reverse the list and return the new head.  
+**Bug:** The function does not reverse the list correctly.  
+**Result:** Fixed by self.
+
+---
+
 ## How to Use
 
 - Review the problems and their statements.
-- Check the corresponding solutions and explanations in `day1.py`, `day2.py`, `day3.py`, etc.
+- Check the corresponding solutions and explanations in `day1.py`, `day2.py`, `day3.py`, `day4.py`, etc.
 - Use the test cases to verify your own fixes and understanding.
 
 ---
