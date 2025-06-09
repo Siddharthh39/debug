@@ -21,6 +21,7 @@ This repository is dedicated to improving Python debugging skills through daily 
 | Day 2 | ✅ HashMap Counter   | ✅ Balanced Parentheses   | ✅ Remove Duplicates (LL)                | Dict, Stack, Linked List           | 2/3         | 1/3      | Needed help with linked list pointers    |
 | Day 3 | ✅ Find Max          | ✅ Queue (2 Stacks)       | ✅ Binary Search (First Occurrence)      | Arrays, Stacks, Queues, Search     | 3/3         | 0/3      | Solved all problems independently       |
 | Day 4 | ✅ Remove Evens      | ✅ Linear Search          | ✅ Reverse Linked List                   | Arrays, Search, Linked List        | 3/3         | 0/3      | Solved all problems independently       |
+| Day 5 | ✅ Second Largest    | ✅ Min Stack             | ✅ Merge Intervals                       | Arrays, Stack, Sorting             | 3/3         | 0/3      | Solved all problems independently       |
 | Day 7 | Real-World Project   |                          |                                         | Debugging, Refactoring, Optimization |             |           |                                          |
 
 - ✅ = Solved and understood
@@ -35,6 +36,7 @@ This repository is dedicated to improving Python debugging skills through daily 
 - **Day 2:** HashMap Counter, Balanced Parentheses, Remove Duplicates (LL).
 - **Day 3:** Find Max, Queue (2 Stacks), Binary Search (First Occurrence).
 - **Day 4:** Remove Evens, Linear Search, Reverse Linked List.
+- **Day 5:** Second Largest, Min Stack, Merge Intervals.
 
 ### Real-World Project Challenges
 - **Week 1:** TBD (e.g., Debugging a simple web scraper with performance issues).
